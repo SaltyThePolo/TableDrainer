@@ -6,11 +6,11 @@ Requires:
 * `requests==2.26.0`
 
 ```bash
-pip3 install -r requirements.txt
+  pip3 install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-    python3 tableDrainer {url} {filename}
+  python3 tableDrainer {url} {filename}
 ```
